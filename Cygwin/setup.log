@@ -1,0 +1,12 @@
+2017/10/05 08:54:39 Starting cygwin install, version 2.876
+2017/10/05 08:54:39 User has NO backup/restore rights
+2017/10/05 08:54:39 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2017/10/05 08:54:39 Current Directory: C:\Distr\CygwinPortable_1.2.0.0\App\Runtime\Cygwin
+2017/10/05 08:54:39 Could not open Service control manager
+2017/10/05 08:54:48 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2017/10/05 08:54:48 Ending cygwin install
+2017/10/05 08:55:14 Starting cygwin install, version 2.876
+2017/10/05 08:55:14 User has NO backup/restore rights
+2017/10/05 08:55:14 Current Directory: C:\Distr\CygwinPortable_1.2.0.0\App\Runtime\Cygwin
+2017/10/05 08:55:14 Could not open Service control manager
+2017/10/05 08:55:17 Ending cygwin install

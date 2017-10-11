@@ -1,0 +1,11 @@
+	# gawk profile, created Fri Oct  6 14:42:57 2017
+
+	# Rule(s)
+
+	{
+		match($0, /plp/, arr)
+		if (arr[1] != "") {
+			print arr[1]
+		}
+	}
+

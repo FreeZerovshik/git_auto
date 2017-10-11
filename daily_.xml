@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+
+<!-- configuration file to run the PICK in silent mode -->
+
+<configuration  version="1"  server="VTB24_DEV" user="IBS"  owner="IBS" >
+
+  <download  id="d1" pck-file="c:\project\ibsobj_2017_10_03.pck"  storage-file="c:\project\ibsobj_2017_10_03.mdb"  dependent-mode="include"  enabled="true"  />
+
+</configuration>

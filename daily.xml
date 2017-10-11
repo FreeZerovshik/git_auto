@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1251"?> 					
+																	
+<configuration													
+   version="1"														
+   server="VTB24_DEV"														
+   user="IBS"														
+   owner="IBS"													
+   pfx-file=" "													
+   show-monitor="false"												
+>																		
+   <download															
+       id="Создание хранилища BR_12818"								
+       pck-file="C:\Project\_auto\ibsobj\ibsobj_BR_12818.pck"				
+       storage-file="C:\Project\_auto\ibsobj\ibsobj_BR_12818.mdb"			
+       dependent-mode="include"									
+       enabled="true"												
+   />																
+</configuration> 												
